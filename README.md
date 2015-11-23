@@ -6,12 +6,12 @@ I like to eat [noun(plural)]
 
 Will cause the program to display:
 
-Please enter a noun: 
+	Please enter a noun: 
 
 and take user input.
 
 The final result will be
 
-I like to eat apples
+	I like to eat apples
 
 Where "apples" is the string entered by the user.
